@@ -3,3 +3,14 @@ git status = mostrastatus do trabalho
 git add nome_arquivo = adiciona arquivo para ser comitado
 git commit -m 'msg' = faz commit do que estava para ser comitado
 git log = mostra todo o historico de commit
+
+## fluxo de trabalho
+1 criar diretorio d orpojeto
+2 iniciar o git dentro do diretorio(git init.)
+3 editar ou criar arquivos 
+4 git status
+5git add(nome arquivo)
+6 git status
+7 git commit -m 'mensagem'
+8 git status
+9volta para passo 3
