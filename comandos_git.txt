@@ -3,6 +3,7 @@ git status = mostrastatus do trabalho
 git add nome_arquivo = adiciona arquivo para ser comitado
 git commit -m 'msg' = faz commit do que estava para ser comitado
 git log = mostra todo o historico de commit
+git diff <
 
 ## fluxo de trabalho
 1 criar diretorio d orpojeto
