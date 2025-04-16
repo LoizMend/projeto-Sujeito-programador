@@ -1,9 +1,15 @@
+<arquivo> = refere-se somente ao arquivo
+<.> = refere-se a todos dentro do diretorio
 git init . = criar repo git na pasta atual
 git status = mostrastatus do trabalho
 git add nome_arquivo = adiciona arquivo para ser comitado
 git commit -m 'msg' = faz commit do que estava para ser comitado
 git log = mostra todo o historico de commit
-git diff <
+git diff <arquivo> = ver mudanças em arquivo
+git reset <arquivo> = mudar arquivo na fase de stage
+git checkout -b <branche> = cria ramificação no git branch
+git checkout <branche> = altera para a ramificação informada
+git branch = mostra todas as branches
 
 ## fluxo de trabalho
 1 criar diretorio d orpojeto
