@@ -1,0 +1,4 @@
+ganhei o campeonato mundia de dar
+ls lista arquivo 
+cd move diretorio
+pwd mostrar diretorio de trabalho
