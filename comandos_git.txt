@@ -10,6 +10,7 @@ git reset <arquivo> = mudar arquivo na fase de stage
 git checkout -b <branche> = cria ramificação no git branch
 git checkout <branche> = altera para a ramificação informada
 git branch = mostra todas as branches
+git merge <branch> = mesclar ramificações branches
 
 ## fluxo de trabalho
 1 criar diretorio d orpojeto
