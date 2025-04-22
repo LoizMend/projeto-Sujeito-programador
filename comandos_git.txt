@@ -7,19 +7,22 @@ git commit -m 'msg' = faz commit(salva) do que estava para ser comitado
 git log = mostra todo o historico de commit
 git diff <arquivo> = ver mudanças em arquivo
 git reset <arquivo> = mudar arquivo na fase de stage
-git checkout -b <branche> = cria ramificação no git branch
-git checkout <branche> = altera para a ramificação informada
+git checkout -b <branche> = cria branch no git branch
+git checkout <branche> = altera para a branch informada
 git branch = mostra todas as branches
 git branch -d <branch> = deletar branch
 git merge <branch> = mesclar ramificações branches
+git push origin <nome da branch> = envia a branch para o git hub
+git pull origin <branch> = atualizar a versão local de um repositório a partir de uma versão remota
+
 
 ## fluxo de trabalho
 1 criar diretorio d orpojeto
 2 iniciar o git dentro do diretorio(git init.)
 3 editar ou criar arquivos 
 4 git status
-5git add(nome arquivo)
+5 git add(nome arquivo)
 6 git status
 7 git commit -m 'mensagem'
 8 git status
-9volta para passo 3
+9 volta para passo 3
